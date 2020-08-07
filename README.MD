@@ -37,4 +37,4 @@ const p1 = MyPromise.resolve(1)
     MyPromise.all([p11, p12, p13]).then(res => console.log('promise.all:', res))
 ```
 
-![image](https://github.com/Gengar-666/my-promise/test.jpg)
+![image](https://github.com/Gengar-666/my-promise/blob/master/test.jpg)
